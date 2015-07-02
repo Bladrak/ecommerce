@@ -1,6 +1,8 @@
 Sonata Ecommerce
 ================
 
+[![Join the chat at https://gitter.im/Bladrak/ecommerce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Bladrak/ecommerce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://secure.travis-ci.org/sonata-project/ecommerce.png?branch=master)](http://travis-ci.org/sonata-project/ecommerce)
 
 The online documentation of the bundle is in http://sonata-project.org/bundles/ecommerce
